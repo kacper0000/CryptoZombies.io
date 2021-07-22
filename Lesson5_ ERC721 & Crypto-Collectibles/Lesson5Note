@@ -1,0 +1,8 @@
+About this lesson, we have learned in it about:
+
+Tokens, the ERC721 standard, and tradable assets/zombies
+Libraries and how to use them
+How to prevent overflows and underflows using the SafeMath library
+Commenting your code and the natspec standard
+
+We have made it so you can trade your zombies with your friends.
